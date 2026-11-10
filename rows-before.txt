@@ -1,0 +1,4 @@
+DATABASE()	equipment	COUNT(*)	SUM(id)	SUM(amount)
+pm07_v15	equipment	4	10	100.00
+pm07_v15	contracts	4	10	100.00
+pm07_v15	returns	4	10	100.00

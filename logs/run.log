@@ -1,0 +1,65 @@
+2026-11-10T17:55:42+03:00 [INFO] START db=pm07_v15
+2026-11-10T17:55:42+03:00 [INFO] check completed; see out/mysqlcheck.txt
+2026-11-10T17:55:42+03:00 [INFO] END result=OK
+2026-11-10T17:56:25+03:00 [INFO] START db=pm07_v15
+2026-11-10T17:56:25+03:00 [INFO] check completed; see out/mysqlcheck.txt
+2026-11-10T17:56:25+03:00 [INFO] END result=OK
+2026-11-10T17:59:59+03:00 [INFO] START db=pm07_missing_test
+2026-11-10T17:59:59+03:00 [ERROR] exit=2
+2026-11-10T18:04:02+03:00 [INFO] START db=pm07_v15
+2026-11-10T18:04:02+03:00 [INFO] check completed; see out/mysqlcheck.txt
+2026-11-10T18:04:02+03:00 [INFO] END result=OK
+2026-11-10T18:06:02+03:00 [INFO] START db=pm07_v15
+2026-11-10T18:06:02+03:00 [INFO] check completed; see out/mysqlcheck.txt
+2026-11-10T18:06:02+03:00 [INFO] END result=OK
+2026-11-10T18:08:03+03:00 [INFO] START db=pm07_v15
+2026-11-10T18:08:03+03:00 [INFO] check completed; see out/mysqlcheck.txt
+2026-11-10T18:08:03+03:00 [INFO] END result=OK
+2026-11-10T18:10:02+03:00 [INFO] START db=pm07_v15
+2026-11-10T18:10:02+03:00 [INFO] check completed; see out/mysqlcheck.txt
+2026-11-10T18:10:02+03:00 [INFO] END result=OK
+2026-11-10T18:12:02+03:00 [INFO] START db=pm07_v15
+2026-11-10T18:12:02+03:00 [INFO] check completed; see out/mysqlcheck.txt
+2026-11-10T18:12:02+03:00 [INFO] END result=OK
+2026-11-10T18:14:02+03:00 [INFO] START db=pm07_v15
+2026-11-10T18:14:02+03:00 [INFO] check completed; see out/mysqlcheck.txt
+2026-11-10T18:14:02+03:00 [INFO] END result=OK
+2026-11-10T18:16:03+03:00 [INFO] START db=pm07_v15
+2026-11-10T18:16:03+03:00 [INFO] check completed; see out/mysqlcheck.txt
+2026-11-10T18:16:03+03:00 [INFO] END result=OK
+2026-11-10T18:18:03+03:00 [INFO] START db=pm07_v15
+2026-11-10T18:18:03+03:00 [INFO] check completed; see out/mysqlcheck.txt
+2026-11-10T18:18:03+03:00 [INFO] END result=OK
+2026-11-10T18:20:02+03:00 [INFO] START db=pm07_v15
+2026-11-10T18:20:02+03:00 [INFO] check completed; see out/mysqlcheck.txt
+2026-11-10T18:20:03+03:00 [INFO] END result=OK
+2026-11-10T18:22:02+03:00 [INFO] START db=pm07_v15
+2026-11-10T18:22:02+03:00 [INFO] check completed; see out/mysqlcheck.txt
+2026-11-10T18:22:02+03:00 [INFO] END result=OK
+2026-11-10T18:22:17+03:00 [INFO] START db=pm07_missing_test
+2026-11-10T18:22:17+03:00 [ERROR] exit=2
+2026-11-10T18:24:02+03:00 [INFO] START db=pm07_v15
+2026-11-10T18:24:02+03:00 [INFO] check completed; see out/mysqlcheck.txt
+2026-11-10T18:24:02+03:00 [INFO] END result=OK
+2026-11-10T18:26:03+03:00 [INFO] START db=pm07_v15
+2026-11-10T18:26:03+03:00 [INFO] check completed; see out/mysqlcheck.txt
+2026-11-10T18:26:03+03:00 [INFO] END result=OK
+2026-11-10T18:28:02+03:00 [INFO] START db=pm07_v15
+2026-11-10T18:28:02+03:00 [INFO] check completed; see out/mysqlcheck.txt
+2026-11-10T18:28:02+03:00 [INFO] END result=OK
+2026-11-10T18:30:02+03:00 [INFO] START db=pm07_v15
+2026-11-10T18:30:02+03:00 [INFO] check completed; see out/mysqlcheck.txt
+2026-11-10T18:30:02+03:00 [INFO] END result=OK
+2026-11-10T18:32:03+03:00 [INFO] START db=pm07_v15
+2026-11-10T18:32:03+03:00 [INFO] check completed; see out/mysqlcheck.txt
+2026-11-10T18:32:03+03:00 [INFO] END result=OK
+2026-11-10T18:34:02+03:00 [INFO] START db=pm07_v15
+2026-11-10T18:34:02+03:00 [INFO] check completed; see out/mysqlcheck.txt
+2026-11-10T18:34:02+03:00 [INFO] END result=OK
+2026-11-10T18:34:37+03:00 [INFO] START db=pm07_v15
+2026-11-10T18:34:37+03:00 [INFO] check completed; see out/mysqlcheck.txt
+2026-11-10T18:34:37+03:00 [INFO] elapsed_ms=19
+2026-11-10T18:34:37+03:00 [INFO] END result=OK
+2026-11-10T18:36:03+03:00 [INFO] START db=pm07_v15
+2026-11-10T18:36:03+03:00 [INFO] check completed; see out/mysqlcheck.txt
+2026-11-10T18:36:03+03:00 [INFO] END result=OK

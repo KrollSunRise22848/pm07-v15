@@ -1,0 +1,6 @@
+DATABASE()	equipment	COUNT(*)	SUM(id)	SUM(amount)
+pm07_v15_restore	equipment	4	10	100.00
+pm07_v15_restore	contracts	4	10	100.00
+pm07_v15_restore	returns	4	10	100.00
+id	name	event_at	amount	link_id	quantity	expires_on
+1	Перфоратор Makita HR2470	2026-11-01 09:00:00	20.00	NULL	1	2027-04-30
